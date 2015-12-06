@@ -115,7 +115,7 @@ var gen = generators.Base.extend({
                         ]
                     },
                     {
-                        checked: true,
+                        checked: false,
                         name: 'search',
                         value: [
                             {
