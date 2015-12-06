@@ -23,6 +23,7 @@ Yeoman Genertator to create new presentations with [reveal.js][reveal-url]
 
 And then, the [reveal.js][reveal-url] based project generated.
 
+For more information about `reveal.js`, like `theme`, `plugin`, you can find in [reveal.js][reveal-url].
 
 ## LICENSE ##
 
