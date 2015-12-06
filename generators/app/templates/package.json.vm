@@ -1,0 +1,18 @@
+{
+  "name": "<%= answers.name %>",
+  "version": "1.0.0",
+  "description": "<%= answers.description %>",
+  "files": [
+    "css",
+    "js",
+    "lib",
+    "plugin",
+    "index.html",
+    "package.json"
+  ],
+  "keywords": [
+      "presentation", "<%= answers.name %>"
+  ],
+  "author": "<%= answers.username %> <% if(answers.email){ %><<%= answers.email %>><% } %>",
+  "license": "MIT"
+}

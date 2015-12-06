@@ -1,0 +1,24 @@
+{
+  "name": "generator-slides",
+  "version": "1.0.0",
+  "description": "Yeoman Genertator to create new presentations with reveal.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leftstick/generator-slides.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leftstick/generator-slides/issues"
+  },
+  "homepage": "https://github.com/leftstick/generator-slides",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator", "reveal.js", "presentation"
+  ],
+  "author": "Howard.Zuo",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.21.1"
+  }
+}
