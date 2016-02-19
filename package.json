@@ -1,6 +1,6 @@
 {
   "name": "generator-slides",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Yeoman Genertator to create new presentations with reveal.js",
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
   "author": "Howard.Zuo",
   "license": "MIT",
   "dependencies": {
-    "yeoman-generator": "^0.22.2"
+    "yeoman-generator": "^0.22.5"
   }
 }
